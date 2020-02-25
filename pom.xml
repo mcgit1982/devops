@@ -39,7 +39,6 @@
 		<connection>scm:git:git@github.com:mcgit1982/devops.git</connection>
 		<developerConnection>scm:git:git@github.com:mcgit1982/devops.git</developerConnection>
 		<url>git@github.com:mcgit1982/devops.git</url>
-		<tag>HEAD</tag>
 	</scm>
 
 	<dependencies>
